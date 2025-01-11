@@ -9,7 +9,7 @@ I'm a new full-stack developer on an exciting journey of learning, building, and
 - 🔥 Passionate about crafting user-friendly experiences and solving real-world problems with code.  
 
 ## 🌐 Let's Connect!  
-- 📫 [Your Email or LinkedIn link]  
+- 📫 nicolasortizsaltos@gmail.com
 - 💡 **Fun fact:** When I'm not coding, I'm probably exploring new flavors for my organic chocolate business or hanging out with my awesome dog 🐕!  
 
 
